@@ -1,1 +1,1 @@
-# javapicsart
+# JavaPicsartAcademy
